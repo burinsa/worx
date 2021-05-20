@@ -2175,6 +2175,11 @@ body {
     margin-right: 0;
   }
 
+  .img-wrap {
+    width: 100%;
+    max-width: 535px;
+  }
+
   /* robot */
 
   .robot {
