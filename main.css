@@ -2880,6 +2880,10 @@ body {
     padding-left: 0;
   }
 
+  .title-wrap img {
+    margin-left: 0;
+  }
+
   .call-back .title {
     font-size: 46px;
     line-height: 120%;
